@@ -16,7 +16,7 @@ Resultados:
 
 - La hipótesis de que Netflix ha aumentado el número de títulos en los últimos años se valida con un modelo de clasificación que logró una precisión del 62%.
 
-- La mayoría del contenido proviene de Estados Unidos, aunque el modelo mostró mayor precisión al identificar títulos no estadounidenses (precisión del 64%).
+- La mayoría del contenido proviene de Estados Unidos, aunque el modelo mostró mayor precisión al identificar títulos no estadounidenses (precisión del 67%).
 
 - El género 'Drama' es el más frecuente en Netflix, especialmente en películas, y el modelo alcanzó una precisión del 69% al predecir títulos dramáticos.
 
